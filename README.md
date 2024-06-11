@@ -18,10 +18,7 @@ This project aims to develop a robust, automated firearm detection system using 
 - [Conclusion](#conclusion)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors and Acknowledgments](#authors-and-acknowledgments)
+
 
 ## Introduction
 
@@ -64,11 +61,11 @@ This project demonstrates the effectiveness of integrating high-accuracy and fas
 
 ### Machine Gun Detection
 
-![Machine Gun Detection](https://github.com/Anitha-Balachandran/ComputerVision--FirearmDetection/blob/1b59b0416f1a16d0055308842d7fb00c1da83eba/MachineGun_Demo.mp4)
+![Machine Gun Detection](MachineGun_Demo.mp4)
 
 ### Hand Gun Detection
 
-![Hand Gun Detection](https://github.com/Anitha-Balachandran/ComputerVision--FirearmDetection/blob/1b59b0416f1a16d0055308842d7fb00c1da83eba/HandGun_Demo.mp4)
+![Hand Gun Detection](HandGun_Demo.mp4)
 
 ## Installation
 
