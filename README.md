@@ -67,7 +67,24 @@ https://github.com/Anitha-Balachandran/ComputerVision--FirearmDetection/blob/mai
 
 https://github.com/Anitha-Balachandran/ComputerVision--FirearmDetection/blob/main/HandGun_Demo.mp4
 
+# Enhancing Firearm Detection in Video Surveillance
+
+## Demo
+
+### Machine Gun Detection
+
+[Machine Gun Detection](https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection/raw/main/path/to/machine_gun_detection.mp4)
+
+### Hand Gun Detection
+
+[Hand Gun Detection](https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection/raw/main/path/to/hand_gun_detection.mp4)
+
 ## Installation
 
 pip install -r requirements.txt
+
+
+
+
+
 
