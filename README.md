@@ -61,11 +61,11 @@ This project demonstrates the effectiveness of integrating high-accuracy and fas
 
 ### Machine Gun Detection
 
-![Machine Gun Detection](MachineGun_Demo.mp4)
+![Machine Gun Detection](https://github.com/Anitha-Balachandran/ComputerVision--FirearmDetection/blob/main/MachineGun_Demo.mp4)
 
 ### Hand Gun Detection
 
-![Hand Gun Detection](HandGun_Demo.mp4)
+![Hand Gun Detection](https://github.com/Anitha-Balachandran/ComputerVision--FirearmDetection/blob/main/HandGun_Demo.mp4)
 
 ## Installation
 
