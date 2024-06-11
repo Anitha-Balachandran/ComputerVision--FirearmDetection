@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/DL/Split_data/train/images/
+val: /content/drive/MyDrive/DL/Split_data/val/images/
+
+nc: 3
+
+names: ['nogun', 'handgun', 'machinegun']
+
