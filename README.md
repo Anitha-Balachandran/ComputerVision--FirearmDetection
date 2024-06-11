@@ -30,7 +30,7 @@ The increase in concealed firearm incidents underscores the need for improved se
 
 We used a dataset of 398 videos featuring individuals with and without firearms. The dataset includes categories for Handgun, Machine Gun, and No Gun.
 - Source: [Mendeley Data](https://data.mendeley.com/datasets/bbzpxhd22j/2)
-- ![Dataset Image](https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection/assets/131414180/6b332077-f585-4172-99ef-447671f4d010)
+
 
 ### Data Pre-processing
 
@@ -61,27 +61,28 @@ This project demonstrates the effectiveness of integrating high-accuracy and fas
 
 # Machine Gun Detection
 
-https://github.com/Anitha-Balachandran/ComputerVision--FirearmDetection/blob/main/MachineGun_Demo.mp4
+https://github.com/Anitha-Balachandran/ComputerVision--FirearmDetection/assets/143915040/15bbdcb0-8945-4769-af1f-f5b948fca1ef
 
 # Hand Gun Detection
 
-https://github.com/Anitha-Balachandran/ComputerVision--FirearmDetection/blob/main/HandGun_Demo.mp4
-
-# Enhancing Firearm Detection in Video Surveillance
-
-## Demo
-
-### Machine Gun Detection
-
-[Machine Gun Detection](https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection/raw/main/path/to/machine_gun_detection.mp4)
-
-### Hand Gun Detection
-
-[Hand Gun Detection](https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection/raw/main/path/to/hand_gun_detection.mp4)
+https://github.com/Anitha-Balachandran/ComputerVision--FirearmDetection/assets/143915040/f417e134-c2f6-4bee-bcdb-ae9e09b1bf97
 
 ## Installation
 
 pip install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
